@@ -1,4 +1,5 @@
-
+/*  Initializa Firebase con la configuración del proyecto. Revisa la
+ * configuración en tu servidor de Firebase.  */
 // @ts-ignore
 firebase.initializeApp({
   apiKey: "AIzaSyDRsaSa7LkimyjlAEvfjZpBX2Qe_zA8gPU",
@@ -9,4 +10,3 @@ firebase.initializeApp({
   appId: "1:683481567401:web:0557c47b57021e98fe59b8",
   measurementId: "G-P3RFYSJNY3"
     });
-
